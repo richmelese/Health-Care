@@ -13,7 +13,6 @@ const Navbar: React.FC = () => {
 
   return (
     <div className="absolute top-4 left-4 w-full max-w-screen-xl h-18 bg-white rounded-full shadow-lg flex items-center justify-between px-12 py-4 opacity-100 overflow-hidden">
-     
       <a href="#"><img 
         src={image}
         alt="Logo"
